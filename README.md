@@ -1,27 +1,45 @@
-<h1 align="center">Hi 👋, I'm Deepanshu Prashar</h1>
-<h3 align="center">Experienced software engineer specializing in Java Spring Boot and microservices architecture. I design and build new features, optimize existing ones, and excel in agile methodologies. Skilled in cloud technologies and a strong advocate for high code quality. Effective communicator and mentor, ready to take initiative in dynamic, forward-thinking environments.</h3>
 
-<img align = "right" alt= "Coding" width = "400" src = "https://gifdb.com/images/high/scrolling-up-green-system-coding-nxt2vg8bl6e4wbo1.gif">
+# 👨‍💻 Deepanshu Prashar
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deep2555&label=Profile%20views&color=0e75b6&style=flat" alt="deep2555" /> </p>
+**Java Backend Developer | Spring Boot | Microservices | REST APIs | Cloud-Native Enthusiast**  
+📍 Berlin, Germany | 💼 Open to Work
 
-- 🌱 Gaining Experience on **Spring-Boot, Hibernate, J2EE**
+---
 
-- 💬 Ask me about **Java, J2EE, JSP, Java-script, Multi-threading, Android Development,Unreal-Engine**
+🔧 I’m a Java Developer with over 2 years of experience building scalable backend systems using Spring Boot, Microservices, and RESTful APIs. I have hands-on knowledge of database optimization, API integrations, CI/CD pipelines, and cloud services (AWS). I'm currently expanding my expertise in full-stack development and cloud-native architecture.
 
-- 📫 How to reach me **deepanshuprashar83@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/deepanshu prashar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepanshu prashar" height="30" width="40" /></a>
-<a href="https://instagram.com/deepanshu9578" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deepanshu9578" height="30" width="40" /></a>
-</p>
+### 🚀 Tech Stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+- **Languages**: Java, SQL, JavaScript, Python (basic)
+- **Frameworks**: Spring Boot, Spring Security, JPA, Hibernate, JSP
+- **Databases**: MySQL, PostgreSQL, MongoDB
+- **Cloud & DevOps**: AWS (EC2, RDS, S3), Docker, GitHub Actions, CI/CD
+- **Tools**: Git, Postman, IntelliJ, STS, Swagger, JUnit
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deep2555&show_icons=true&locale=en&layout=compact" alt="deep2555" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deep2555&show_icons=true&locale=en" alt="deep2555" /></p>
+### 📁 Featured Projects
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deep2555&" alt="deep2555" /></p>
+- 🔹 [Online Food Delivery Backend](https://github.com/deep2555/food-delivery-api) – Role-based login, secure REST API with JWT, Spring Boot, MySQL, deployed on AWS EC2.
+- 🔹 [User Auth Microservice](#) – JWT-based authentication system with Spring Security and Docker.
+- 🔹 [E-commerce API](#) – Scalable architecture for product listing, cart, and order management.
+
+---
+
+### 🧠 Currently Learning
+
+- Cloud Native Patterns | Advanced Spring Security | Kubernetes (Basics)
+
+---
+
+### 📫 Let's Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/deepanshu-prashar-2b6a9116a/)
+- 📧 deepanshuprashar83@gmail.com
+
+---
+
+![Deepanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deep2555&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deep2555&layout=compact)
