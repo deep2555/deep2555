@@ -12,7 +12,7 @@
 
 ### 🚀 Tech Stack
 
-- **Languages**: Java, SQL, JavaScript, Python (basic)
+- **Languages**: Java, SQL, JavaScript, Python 
 - **Frameworks**: Spring Boot, Spring Security, JPA, Hibernate, JSP
 - **Databases**: MySQL, PostgreSQL, MongoDB
 - **Cloud & DevOps**: AWS (EC2, RDS, S3), Docker, GitHub Actions, CI/CD
