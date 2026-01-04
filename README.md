@@ -17,9 +17,14 @@
 - **Databases**: MySQL, PostgreSQL, MongoDB
 - **Cloud & DevOps**: AWS (EC2, RDS, S3), Docker, GitHub Actions, CI/CD
 - **Tools**: Git, Postman, IntelliJ, STS, Swagger, JUnit
+---
+### 📁 On-Going Project ( Minor Project)
+🔹 [Global Logistics & Smart Warehouse System]([https://github.com/deep2555/](https://github.com/deep2555/Global-Logistics-Smart-Warehouse-System)) – building the backend for a high-tech warehouse that manages international shipping. The system must handle different types of cargo, track their positions in a 2D grid, and maintain a permanent record of transactions
 
 ---
-### 📁 On-Going Project
+
+---
+### 📁 On-Going Project ( Major Project)
 🔹 [Online Food Delivery Backend](https://github.com/deep2555/Food-Delivery) – Role-based login, secure REST API with JWT, Spring Boot, MySQL, deployed on AWS EC2.
 
 ---
