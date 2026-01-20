@@ -21,6 +21,8 @@
 ### 📁 Core Java Practice Task (Minor Project)
 🔹 [Global Logistics & Smart Warehouse System](https://github.com/deep2555/Global-Logistics-Smart-Warehouse-System) – building the backend for a high-tech warehouse that manages international shipping. The system must handle different types of cargo, track their positions in a 2D grid, and maintain a permanent record of transactions
 
+🔹 [Order Processing System](https://github.com/deep2555/OrderProcessingSystem) – Building a backend order processing system that reads orders from a file, processes them concurrently, updates inventory safely, logs results, and handles failures gracefully. This project demonstrates Core Java concepts, multithreading, concurrency control, file handling, OOP principles, and exception handling in a clean and professional way.
+
 ---
 ### 📁 On-Going Project ( Major Project)
 🔹 [Online Food Delivery Backend](https://github.com/deep2555/Food-Delivery) – Role-based login, secure REST API with JWT, Spring Boot, MySQL, deployed on AWS EC2.
